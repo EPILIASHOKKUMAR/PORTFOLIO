@@ -50,7 +50,7 @@ const Projects = () => {
       },
       image: "https://images.pexels.com/photos/358319/pexels-photo-358319.jpeg?auto=compress&cs=tinysrgb&w=1200",
       liveUrl: "https://flight-booking-system-7iug.vercel.app/",
-      githubUrl: "https://github.com/EPILIASHOKKUMAR",
+      githubUrl: "https://github.com/EPILIASHOKKUMAR/FLIGHT-BOOKING-SYSTEM",
       featured: false
     },
     {
@@ -74,8 +74,8 @@ const Projects = () => {
         features: ["AI Assistant", "Real-time Slots", "Geo-location"]
       },
       image: "https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      liveUrl: "https://doctor-appointment-system-chi-gilt.vercel.app/",
-      githubUrl: "https://github.com/EPILIASHOKKUMAR",
+      liveUrl: "https://smartcinicai.onrender.com/",
+      githubUrl: "https://github.com/EPILIASHOKKUMAR/doctor-appointment-system",
       featured: false
     },
     {
@@ -125,7 +125,7 @@ const Projects = () => {
       },
       image: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1200",
       liveUrl: "https://kannected.onrender.com",
-      githubUrl: "https://github.com/EPILIASHOKKUMAR",
+      githubUrl: "https://github.com/EPILIASHOKKUMAR/kaneccted",
       featured: false
     }
   ];
